@@ -1,0 +1,1 @@
+This project allows the user to calculate various loan parameters. The program is accessed via the command-line interface.
